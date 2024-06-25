@@ -13,14 +13,6 @@ project aims to ease time-related calculations in software development.
 - Perform arithmetic operations on time units, such as addition, subtraction, multiplication, and division.
 - Designed for extensibility, allowing for the easy addition of new time units.
 
-## Installation
-
-Install TimeUnits with pip:
-
-```bash
-pip install timeunits
-```
-
 ## Quick Start
 Here's how you can use TimeUnits to work with different time scales:
 ```python
