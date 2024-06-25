@@ -34,13 +34,3 @@ print(seconds)  # Expected output: 1 s
 Your contributions are welcome! If you'd like to add new time units, enhance 
 the documentation, or fix issues, we'd appreciate your help. Please fork the 
 repository, make your changes, and submit a pull request.
-
-## License
-This project is licensed under an Attribution License - you are free to use, 
-distribute, and modify the code as long as you provide appropriate credit to 
-the original author. Please see the LICENSE file for more details.
-
-
-When you decide on a specific license, replace "Attribution License" with the name of your chosen license and provide a `LICENSE` file in your repository that clearly states the license terms.
-
-Remember, the package name `timeunits` or `timeunit` and the precise license terms you wish to apply (requiring attribution) are crucial details, so make sure they're clearly communicated in your project documentation and setup configuration.
